@@ -12,7 +12,7 @@ class ExamApplicationTests {
 	void contextLoads() {
 		int num = 1;
 
-		assertTrue(56 > num);
+		assertTrue(57 > num);
 	}
 
 }
