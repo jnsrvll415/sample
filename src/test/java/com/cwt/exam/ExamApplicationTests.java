@@ -11,7 +11,7 @@ class ExamApplicationTests {
 	@Test
 	void contextLoads() {
 		int num = 1;
-		System.out.println("asd");
+
 		assertTrue(5 > num);
 	}
 
